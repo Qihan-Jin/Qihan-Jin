@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Qihan Jin
 
-<!--
-**Qihan-Jin/Qihan-Jin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science student exploring AI and building things with Python and SQL.
 
-Here are some ideas to get you started:
+## Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- MSc Data Science, The University of Hong Kong
+- BSc Data Science and Big Data Technology, Xi'an Jiaotong-Liverpool University
+
+## Interests
+
+- AI
+- Vibe coding
+- Basketball
+- Football
+
+## Tech
+
+- Python
+- SQL
