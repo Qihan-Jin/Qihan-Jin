@@ -1,6 +1,6 @@
 # Hi, I'm Qihan Jin 👋
 
-🎓 I am a Data Science student currently studying at Xi'an Jiaotong-Liverpool University, and I will continue my journey in the MSc Data Science programme at The University of Hong Kong.
+🎓 I am a Data Science student currently studying at Xi'an Jiaotong-Liverpool University(2022-2026), and I will continue my journey in the MSc Data Science programme at The University of Hong Kong(2026-2028).
 
 🤖 I am interested in AI and enjoy exploring ideas through vibe coding. I like using technology to turn small thoughts into real projects, experiments, and useful tools.
 
