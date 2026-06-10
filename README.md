@@ -1,20 +1,9 @@
-# Hi there, I'm Qihan Jin
+# Hi, I'm Qihan Jin 👋
 
-Data Science student exploring AI and building things with Python and SQL.
+🎓 I am a Data Science student currently studying at Xi'an Jiaotong-Liverpool University, and I will continue my journey in the MSc Data Science programme at The University of Hong Kong.
 
-## Education
+🤖 I am interested in AI and enjoy exploring ideas through vibe coding. I like using technology to turn small thoughts into real projects, experiments, and useful tools.
 
-- MSc Data Science, The University of Hong Kong
-- BSc Data Science and Big Data Technology, Xi'an Jiaotong-Liverpool University
+🐍 My main programming languages are Python and SQL, which I use for data analysis, machine learning, and building data-driven projects.
 
-## Interests
-
-- AI
-- Vibe coding
-- Basketball
-- Football
-
-## Tech
-
-- Python
-- SQL
+🏀⚽ Outside of study and coding, I enjoy playing basketball and football.
